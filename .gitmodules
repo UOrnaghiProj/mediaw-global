@@ -10,3 +10,6 @@
 [submodule "mediaword-app"]
 	path = mediaword-app
 	url = https://github.com/UOrnaghiProj/mediaword-app.git
+[submodule "root-mediaw"]
+	path = root-mediaw
+	url = https://github.com/UOrnaghiProj/root-mediaw.git
