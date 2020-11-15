@@ -1,3 +1,6 @@
 [submodule "eureka"]
 	path = eureka
 	url = https://github.com/UOrnaghiProj/eureka.git
+[submodule "zuul-mediaw"]
+	path = zuul-mediaw
+	url = https://github.com/UOrnaghiProj/zuul-mediaw.git
