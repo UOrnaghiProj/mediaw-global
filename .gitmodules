@@ -7,3 +7,6 @@
 [submodule "geolocalization"]
 	path = geolocalization
 	url = https://github.com/UOrnaghiProj/geolocalization.git
+[submodule "mediaword-app"]
+	path = mediaword-app
+	url = https://github.com/UOrnaghiProj/mediaword-app.git
