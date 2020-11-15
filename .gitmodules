@@ -4,3 +4,6 @@
 [submodule "zuul-mediaw"]
 	path = zuul-mediaw
 	url = https://github.com/UOrnaghiProj/zuul-mediaw.git
+[submodule "geolocalization"]
+	path = geolocalization
+	url = https://github.com/UOrnaghiProj/geolocalization.git
